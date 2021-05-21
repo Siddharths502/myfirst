@@ -1,0 +1,85 @@
+.bgimg{background-image: url(./img/HD\ wallpaper_\ Satoru\ Gojo\,\ Jujutsu\ Kaisen.jpg);
+background-size: 100% 100%;
+background-attachment: fixed;
+width: 100%;
+height: 1000px;
+opacity: 0.9;
+
+}
+.headerset{
+    padding-top: 380px;
+    box-sizing: border-box;
+}
+.headerset h1{font-family:fantasy;font-style: italic;}
+.headerset h2{font-family: cursive;}
+
+
+/*////////////////our services////////////////*/
+
+.ourservices{padding: 100px 0px 60px 0px; 
+    height: 700px;}
+.ourservices h1{font-size: 50px;
+font-weight: bold;}
+
+    .rowsetting{margin: 80px 0px!important;
+    }
+
+    .imgsetting{
+        border-radius: 50%;
+        height: 100%;
+        width: 100%;
+    }
+
+    .fa-shopping-cart{
+        margin-top: 50px;
+    }
+    .rowsetting h2{
+        margin-top: 30px;
+        font-weight: bolder;
+        font-size: 20px;
+    }
+    .rowsetting p{
+        color:#6c757d!important ;
+        padding: 20px;
+    }
+/*////////////////our services////////////////*/
+/*///////////////////portfolio///////////////*/
+
+.portfolio{
+    height: 1100px;
+    width: 100%;
+    padding: 50px 0px 50px;
+}
+.portfolio h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.card{ 
+    margin-top: 40px;
+}
+/*///////////////////portfolio///////////////*/
+
+/*////////////////our team/////////////*/
+.ourteam{
+    height: 700px;
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+.ourteam h1{
+    font-size: 50px;
+    font-weight:bold;
+}
+.teamsetting{
+    margin-top: 62px; !important;
+}
+/*////////////////our team/////////////*/
+
+/*////////////footer/////////////////*/
+.footer{
+    height: 50px;
+}
+.footer h6{
+    line-height: 50px;
+}
+/*////////////footer/////////////////*/
